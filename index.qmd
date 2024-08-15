@@ -35,7 +35,7 @@ library(tidyverse)
 
 ```{r, eval = F, echo=F}
 # Need to rerun if change URL
-code <- qrcode::qr_code("https://lizabolton.github.io/2024-tne/")
+code <- qrcode::qr_code("https://lizabolton.github.io/2024-tne")
 png("img/slide-qr.png")
 plot(code)
 dev.off()
@@ -79,7 +79,7 @@ not knowing.
 
 ::: incremental
 -   ☕☕☕️️️
--   🗣🗣🗣🗣️
+-   🗣🗣🗣️
 -   📧📧📧📧📧📧📧📧📧📧📧📧📧...
 :::
 
