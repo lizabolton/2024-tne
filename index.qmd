@@ -35,7 +35,7 @@ library(tidyverse)
 
 ```{r, eval = F, echo=F}
 # Need to rerun if change URL
-code <- qrcode::qr_code("https://lizabolton.github.io/2024-tne")
+code <- qrcode::qr_code("https://lizabolton.github.io/2024-tne/")
 png("img/slide-qr.png")
 plot(code)
 dev.off()
@@ -50,29 +50,37 @@ or go to [link.lizabolton.com](link.lizabolton.com)
 ::: notes
 Kia ora koutou ko Liza taku ingoa, Huānyíng dàjiā, wǒ de míngzì shì Liza
 
-I am a professional teaching fellow in the Department of Statistics and in May this year I was at Southwest University for three weeks teaching a stage three data science practice course.
+I am a professional teaching fellow in the Department of Statistics and
+in May this year I was at Southwest University for three weeks teaching
+a stage three data science practice course.
 :::
 
-# {background-image="img/happy.jpg"}
+#  {background-image="img/happy.jpg"}
 
 ::: notes
-I wanted to start this by saying I had a really amazing time! Not only only did I eat a lot of good food and get to see some pandas, but I think the experience has improved my teaching practices especially with respect to supporting English Language Learners.
+I wanted to start this by saying I had a really amazing time! Not only
+only did I eat a lot of good food and get to see some pandas, but I
+think the experience has improved my teaching practices especially with
+respect to supporting English Language Learners.
 :::
 
-# {background-image="img/right1.png"}
+#  {background-image="img/right1.png"}
 
-# {background-image="img/right2.png"}
+#  {background-image="img/right2.png"}
 
-# {background-image="img/right3.png"}
+#  {background-image="img/right3.png"}
 
 ## My experience
 
-A focus on the **individual** knowing the right people and asking the right questions. For me this created a lot of pressure to try to think of all the thing I might need to ask about, or else it be *my fault* for not knowing.
+A focus on the **individual** knowing the right people and asking the
+right questions. For me this created a lot of pressure to try to think
+of all the thing I might need to ask about, or else it be *my fault* for
+not knowing.
 
-::: {.incremental}
-- ☕☕☕️️️
-- 🗣🗣🗣️
-- 📧📧📧📧📧📧📧📧📧📧📧📧📧...
+::: incremental
+-   ☕☕☕️️️
+-   🗣🗣🗣🗣️
+-   📧📧📧📧📧📧📧📧📧📧📧📧📧...
 :::
 
 . . .
@@ -83,23 +91,36 @@ A focus on the **individual** knowing the right people and asking the right ques
 
 ## Sign-on check-in
 
-What do people need to know to agree to this and when do they need to know it
+What do people need to know to agree to this and when do they need to
+know it
 
-- 📆Dates
-- ♿️ Accessibility considerations
-- 🌈🌏 Identity considerations
+📆 Dates ♿️ Accessibility considerations 🌈🌏 Identity considerations
 
 ## Orientation
-- Who does what (and who can you ask)
-- Visa information
-- Travel tips (SafeTravel, vaccinations, etc.)
-- Cultural competency
-- How the programme works
-- Expectations
-  - Pre-arrival videos or not, assessment, exam versions
-  - Communicating with your co-teach
-- Opportunity to meet others who have been to the same place / are going to be in the same place
+
+::: incremental
+-   Who does what and who can you ask about what
+-   Visa information
+-   Travel advice (SafeTravel, vaccinations, etc.)
+-   Relevant University policies
+-   Cultural competency
+-   How the programme works
+-   Expectations
+    -   Pre-arrival videos or not, assessment, exam versions
+    -   Communicating with your co-teacher
+    -   Scheduling, e.g., holiday shifted dates / public holidays in NZ
+-   Opportunity to meet others who have been to the same place / are
+    going to be in the same place
+:::
 
 ## Reflection and feedback gathering
-- A more systemic way gather post-teaching reflections or information that can then actually be used to iterate on the information and support provided
-- Thanks for having me here today!
+
+-   A more systemic way gather and share post-teaching reflections or
+    information that can then actually be used to iterate on the
+    information and support provided
+-   Thanks for having me here today! I also have a write up of my time at SWU and advice for other folks linked [here](https://github.com/lizabolton/2024-tne/blob/main/For%20future%20China%20teaching.pdf).
+
+
+. . .
+
+![](img/mydoc.gif){fig-alt="A gif of scrolling through a document with text, tables and pictures of Southwest Univeristy"}
